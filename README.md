@@ -1,4 +1,4 @@
-# Converting a Music into Personalized Stereophonic Soundscapes
+# Personalized Stereophonic Soundscapes Generation by Multimodal Network
 
 ### 1. Previous Researches
 - OmniVec; SOTA
@@ -8,5 +8,4 @@
 - Stable Diffusion
 - w2v-BERT
 
-
-  
+### 3. 
