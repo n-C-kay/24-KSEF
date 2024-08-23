@@ -1,3 +1,12 @@
-# kAnomaly
+# Converting a Music into Personalized Stereophonic Soundscapes
 
-https://intermagnet.org/
+### 1. Previous Researches
+- OmniVec; SOTA
+- Cross-Attention
+  
+### 2. Network Components
+- Stable Diffusion
+- w2v-BERT
+
+
+  
